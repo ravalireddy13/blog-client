@@ -35,7 +35,6 @@ import {
   MatGridListModule,
   MatMenuModule,
   MatToolbarModule, 
-  MatFormField,
   MatSelectModule} from '@angular/material';
 import { NoopAnimationsModule } from '@angular/platform-browser/animations';
 
@@ -83,7 +82,6 @@ import { MatContenteditableModule } from 'mat-contenteditable';
     NoopAnimationsModule,
     CKEditorModule,
     MatSelectModule,
-    MatInputModule,
     MatContenteditableModule
   ],
   providers: [
